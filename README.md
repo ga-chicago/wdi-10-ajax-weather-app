@@ -1,3 +1,13 @@
+# wdi-10-chi
+
+![miles and keiko](https://pbs.twimg.com/media/DMvjd56XcAAxrnc.jpg)
+
+---
+
+Created by: Jeff Krantz<br>
+Adapted for wdi-10-chi by: Reuben Ayres<br>
+Competencies: AJAX, jQuery, DOM manipulation
+
 ## Weather App
 
 Use the [OpenWeather API](http://openweathermap.org/current) to fetch the weather from a certain zip code, and update the page to reflect the current weather. [Documentation](http://openweathermap.org/current)
