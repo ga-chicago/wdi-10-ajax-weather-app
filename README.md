@@ -1,3 +1,5 @@
+![ga](http://mobbook.generalassemb.ly/ga_cog.png)
+
 # wdi-10-chi
 
 ![miles and keiko](https://pbs.twimg.com/media/DMvjd56XcAAxrnc.jpg)
